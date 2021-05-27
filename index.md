@@ -1,11 +1,9 @@
 ---
 layout: default
-title: toppage
+title: PRML勉強会
 ---
 
-# TOP
+# ToC { .main }
 
-* hoge
-* fuga
-
-[05-22](PRML/Introduction/0522.md)
+* [05-22](PRML/Introduction/0522.md)
+* [05-29](PRML/Introduction/0529.md)
