@@ -1,7 +1,8 @@
-title: "test"
+title: "PRML"
 summary: "テスト"
 topics: [""]
 published: false
 price: 0
 chapters:
-  - introduction
+  - 0522.md
+  - 0527.md
